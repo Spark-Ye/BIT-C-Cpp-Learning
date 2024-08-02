@@ -35,3 +35,17 @@ markdown
 ==markdown== for =
 *markdown* for *
 
+一行
+两行
+
+三行
+
+~~~python
+#include <stdio.h>
+int main()
+{
+    int a = 0;
+	return 0;
+}
+~~~
+
