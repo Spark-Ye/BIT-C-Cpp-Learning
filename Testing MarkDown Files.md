@@ -12,9 +12,10 @@ int main()
 ```
 <font color='salmon'>Color-Tesing</font>
 <strong>Strong-Letter-Testing</font>
-1.Seqlist line 1
-1.Seqlist line 2
-2.Seqlist line new 2
+
+1. Seqlist line 1
+1. Seqlist line 2
+2. Seqlist line new 2
 
 -test
 - test
