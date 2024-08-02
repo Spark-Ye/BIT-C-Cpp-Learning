@@ -11,5 +11,5 @@ int main()
 }
 ```
 Hello World.
-hello
+hello.
 
